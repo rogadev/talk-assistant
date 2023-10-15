@@ -15,5 +15,9 @@
     "nuxt": "^3.7.4",
     "vue": "^3.3.4",
     "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "formidable": "^3.5.1",
+    "openai": "^4.12.1"
   }
 }
